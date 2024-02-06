@@ -1,1 +1,1 @@
-Simple neural network for predicting real estate prices, and other comparable algorithms
+Neural network for predicting real estate prices, and other comparable algorithms
